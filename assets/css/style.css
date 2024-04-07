@@ -885,4 +885,12 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     background-color: #f0f0f0; /* Couleur gris clair pour le fond */
 }
 
+.center-text {
+    text-align: center;
+}
+.btn.btn-github {
+    width: 160px; /* Définir la largeur du bouton */
+    height: 40px; /* Définir la hauteur du bouton */
+    transition: none; /* Désactiver la transition au survol */
+}
 /*========================Thank you=================
